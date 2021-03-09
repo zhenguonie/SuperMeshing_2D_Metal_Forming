@@ -18,7 +18,7 @@ To evaluate the model, please run:
 
 python test.py
 
-If you want to test different scaling of factors, please change the data processing method in /Dataset/Dataloader.py, replacing 2X as 4X or 8X
+If you want to test different scaling of factors, please change the data processing method in /Dataset/Dataloader.py, replacing 2X as 4X or 8X.
 
 The picture floder includes the reslt of experiment.
 <div align=center><img width="510" height="560" src="https://user-images.githubusercontent.com/53844777/110434544-eb1b3c80-80ec-11eb-9bcd-3f98ff05a924.png"/></div>
