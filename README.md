@@ -6,7 +6,8 @@ This is the implementation of the SuperMeshingNet, for paper: SuperMehsingNet: A
 The structure of the SuperMeshingNet is shown in Figure.The main structure of the model is composed of ResNet with thechannel and spatial attention modules, and the down-samplinglayer and the up-sampling layer are connected by a structurethat skip-connection.  After four down-sampling modules, we added the Res34 structureto deepen the network and improve the effect. 
 Meanwhile,a geometric attention map that contains the information of ge-ometric feature generated from the training set is learned by ageometric extractor and added on the last third upsampling mod-ule to highlight the attention of the model on the image of theFEA result. 
 Moreover, a perceptual feature extractor composedby ResNet is implemented to optimize the model by perceptualloss, which enhancing the performance in feature space.
-![archtecture](https://user-images.githubusercontent.com/53844777/110433887-089bd680-80ec-11eb-8907-7b676db8e33b.png)
+<div align=center><img width="150" height="150" src="https://user-images.githubusercontent.com/53844777/110433887-089bd680-80ec-11eb-8907-7b676db8e33b.png"/></div>
+
 
 
 To train the model, please download the project and run:
