@@ -12,7 +12,7 @@ Moreover, a perceptual feature extractor composedby ResNet is implemented to opt
 
 To train the model, please download the project and run:
 
-<table><tr><td bgcolor=BlueViolet>python train.py</td></tr></table>
+<table><tr><td bgcolor=Gray>python train.py</td></tr></table>
 
 
 To evaluate the model, please run:
