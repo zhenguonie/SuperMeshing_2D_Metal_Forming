@@ -23,3 +23,5 @@ If you want to test different scaling of factors, please change the data process
 The picture floder includes the reslt of experiment.
 <div align=center><img width="510" height="560" src="https://user-images.githubusercontent.com/53844777/110434544-eb1b3c80-80ec-11eb-9bcd-3f98ff05a924.png"/></div>
 
+# Data
+You can download the data : https://drive.google.com/drive/folders/1FlxDkLyrJYCpSIcXii7AiYZDkXLUk3jD?usp=sharing
